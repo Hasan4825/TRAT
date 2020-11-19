@@ -1,3 +1,3 @@
 # TRAT
 
-Code will be upload soon.
+Code will be uploaded soon.
